@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Website</title>
+</head>
+<body>
+
+<header>
+<h1>Website</h1>
+<p>Welcome to my website</p>
+</header>
+
+<nav>
+  <ahref="#">Home |</a>
+  <ahref="#">About |</a>
+  <ahref="#">Contact</a>
+</nav>
+<section>
+<article>
+<h3>Gaming Tournament Registration</h3>
+<form>
+Name :<br>
+UID :<br>
+Mode : Solo | Duo | Squad<br>
+
+<p>(SUBMIT)</p>
+
+<h3>Info</h3>
+<p>Price : 10,000Rs </p>
+<p>Tournament Date : 29-03-2026</p>
+<p>Registration deadline : 25-03-2026</p>
+</article>
+</section>
+
+<h3>Rules</h3>
+<aside>
+<p>No hacks | Join on time</p>
+</aside>
+
+<footer>
+<p><b>Good Luck Gamers</b></p>
+</footer>
+
+</body>
+</html>
