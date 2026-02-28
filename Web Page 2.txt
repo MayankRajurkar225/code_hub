@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:Orange;">Bombay Food's!!</h1>
+
+<h2 style="background-color:LightGray;">Snacks!</h2>
+
+<ul>
+  <li>Buttery Pav Bhaji</li>
+  <li>Bhel Puri</li>
+  <li>Sev Puri</li>
+  <li>Misal pav</li>
+  <li>Cream bun</li>
+  
+</ul>
+
+<h2 style="background-color:LightGray;">Drink's!</h2>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Aam ras</li>
+  <li>Ganne ka juice</li>
+  <li>Pinaple shack</li>
+</ol>  
+
+<h2 style="background-color:LightGray;">Information</h2>
+<a href="https://www.blinkit.com/" target="_blank">Google</a>
+
+<br><br>
+
+<h2 style="background-color:LightGray;">Email Link</h2></h2>
+<a href="milta:example@gmail.com">Send me an Email</a>
+
+
+</body>
+</html>
